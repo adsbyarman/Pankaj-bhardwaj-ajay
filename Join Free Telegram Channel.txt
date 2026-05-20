@@ -1,0 +1,153 @@
+<head>
+<!-- Meta Pixel Code -->
+<script src="https://connect.facebook.net/signals/config/1159245752485777?v=2.9.324&amp;r=stable&amp;domain=pankaj-bhardwaj-official-mntg.vercel.app&amp;hme=af8aa31887db259becaf70277daef60bd8bc35c2df82c2acd4258de27ecac4b5&amp;ex_m=104%2C207%2C155%2C22%2C72%2C73%2C146%2C68%2C67%2C11%2C164%2C90%2C16%2C138%2C127%2C39%2C75%2C78%2C134%2C160%2C166%2C8%2C4%2C5%2C7%2C6%2C3%2C91%2C101%2C167%2C172%2C221%2C62%2C188%2C189%2C55%2C279%2C30%2C74%2C233%2C232%2C231%2C23%2C33%2C103%2C61%2C10%2C63%2C97%2C98%2C99%2C105%2C130%2C31%2C29%2C132%2C133%2C129%2C128%2C156%2C76%2C159%2C157%2C158%2C50%2C60%2C123%2C15%2C163%2C45%2C266%2C267%2C265%2C26%2C27%2C28%2C48%2C147%2C77%2C112%2C18%2C20%2C44%2C40%2C42%2C41%2C83%2C92%2C96%2C110%2C145%2C148%2C46%2C111%2C24%2C21%2C119%2C69%2C36%2C150%2C149%2C151%2C142%2C140%2C25%2C35%2C59%2C109%2C162%2C70%2C17%2C153%2C114%2C81%2C66%2C19%2C85%2C86%2C116%2C84%2C136%2C135%2C139%2C161%2C34%2C281%2C297%2C214%2C203%2C204%2C202%2C300%2C291%2C52%2C215%2C107%2C131%2C80%2C121%2C54%2C47%2C49%2C113%2C120%2C126%2C125%2C58%2C64%2C152%2C115%2C37%2C32%2C53%2C56%2C100%2C165%2C1%2C124%2C14%2C122%2C12%2C2%2C57%2C93%2C65%2C118%2C89%2C88%2C168%2C169%2C94%2C95%2C9%2C102%2C51%2C143%2C87%2C79%2C71%2C117%2C106%2C43%2C144%2C0%2C82%2C137%2C141%2C154%2C38%2C108%2C13%2C170" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '1159245752485777');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=1159245752485777&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Meta Pixel Code -->
+  
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Join Free Telegram Channel</title>
+  <style>
+    * {margin:0; padding:0; box-sizing:border-box;}
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background: #0f172a;
+      overflow-x: hidden;
+    }
+
+    .video-bg {
+      position: fixed;
+      top: 0; left: 0;
+      width: 100vw;
+      height: 100vh;
+      z-index: -1;
+    }
+
+    .video-bg video {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      opacity: 0.12;
+    }
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+    }.card {
+  backdrop-filter: blur(10px);
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 20px;
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+  color: white;
+  padding: 2rem;
+  max-width: 350px;
+  text-align: center;
+}
+
+.card img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  margin-bottom: 1rem;
+}
+
+h2 {
+  margin-bottom: 1rem;
+}
+
+ul {
+  text-align: left;
+  padding: 0;
+  margin-bottom: 1.5rem;
+}
+
+ul li {
+  list-style: none;
+  margin-bottom: 0.5rem;
+  padding-left: 1.5rem;
+  position: relative;
+}
+
+ul li::before {
+  content: "\2714";
+  color: #00ff95;
+  position: absolute;
+  left: 0;
+}
+
+.cta {
+  display: inline-block;
+  background: linear-gradient(to right, #00f260, #0575e6);
+  padding: 0.75rem 1.5rem;
+  border: none;
+  border-radius: 30px;
+  color: white;
+  font-size: 1rem;
+  text-decoration: none;
+  transition: background 0.3s ease-in-out;
+}
+
+.cta:hover {
+  background: linear-gradient(to right, #0575e6, #00f260);
+}
+
+.disclaimer {
+  font-size: 0.75rem;
+  margin-top: 1rem;
+  color: #ccc;
+}
+
+@media screen and (max-width: 480px) {
+  .card {
+    width: 90%;
+    padding: 1.5rem;
+  }
+}
+
+  </style>
+<style id="sb_cln_style">ins[class*="adsbygoogle"],ins[class*="adsbyadop"],[id*="div-gpt-ad"],amp-ad{display:none !important;}</style></head>
+<body>
+    <div class="video-bg">
+  <video autoplay="" muted="" loop="" playsinline="">
+    <source src="https://assets.mixkit.co/videos/9607/9607-720.mp4">
+  </video>
+</div>
+
+  <div class="card">
+    <img src="https://telegram-ads.riyazshaikh.com/wp-content/uploads/2025/08/pankaj-image-2.jpg" alt="Mentor Image">
+    <h2>Get Daily Stock Market Insights — Free on Telegram</h2>
+    <p>Get market updates, potential trades, and expert analysis straight to your phone — absolutely free.</p>
+    <ul>
+      <li>Daily Nifty &amp; BankNifty Levels</li>
+      <li>No Paid Tips – Purely Educational</li>
+      <li>5+ Years of Market Experience</li>
+      <li>50000+ Subscribers Trust Us Already</li>
+    </ul>
+    <a class="cta" href="https://t.me/+-qZBBEqduww3ZGY9" target="_blank">JOIN FREE TELEGRAM</a>
+    <p class="disclaimer">
+      Disclaimer: This channel is for educational and informational purposes only. We do not provide investment advice or guaranteed returns. Trading in the stock market involves risk. Please consult your financial advisor before making any investment decisions.
+    </p>
+  </div>
+
+
+
+
+</body>
